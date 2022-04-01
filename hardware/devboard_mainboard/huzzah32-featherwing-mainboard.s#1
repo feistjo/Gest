@@ -641,6 +641,12 @@ An 0805 resistor inside a standard 1/4W 5% resistor. Makes for easy mods</descri
 <text x="63.5" y="144.78" size="1.778" layer="94">BNO055</text>
 <text x="60.452" y="136.652" size="0.889" layer="94">Vin 3vo GND SDA SCL RST</text>
 <text x="50.8" y="104.14" size="1.778" layer="94">To battery</text>
+<text x="55.88" y="81.28" size="1.778" layer="94">HUZZAH32 (ESP32) FeatherWing</text>
+<text x="-43.18" y="81.28" size="1.778" layer="94">Flex Sensors</text>
+<wire x1="-2.54" y1="38.1" x2="-2.54" y2="124.46" width="0.1524" layer="94"/>
+<wire x1="-2.54" y1="124.46" x2="-45.72" y2="124.46" width="0.1524" layer="94"/>
+<wire x1="-45.72" y1="124.46" x2="-45.72" y2="38.1" width="0.1524" layer="94"/>
+<wire x1="-45.72" y1="38.1" x2="-2.54" y2="38.1" width="0.1524" layer="94"/>
 </plain>
 <instances>
 <instance part="MS1" gate="G$1" x="48.26" y="63.5" smashed="yes"/>
